@@ -12,10 +12,10 @@ span{
 }
 .bottom{
     position: fixed;
-    color: blue;
+    color: yellow;
     bottom:0;
     width: 100%;
-    background-color: grey;
+    background-color: blue;
     line-height: 3;
     text-align: center;
 }
