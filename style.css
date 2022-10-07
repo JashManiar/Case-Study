@@ -58,5 +58,15 @@ h4{
 }
 body
 {
+    font-family:cursive;
     background:url( "https://64.media.tumblr.com/f8320a481b5afa5984621a16d40c4f35/tumblr_oiwyu5k91N1tf8vylo1_1280.pnj");
+}
+h6
+{
+    font-size:medium;
+    font-weight: bold;
+}
+a
+{
+    color:white;
 }
